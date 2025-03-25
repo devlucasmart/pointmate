@@ -22,4 +22,4 @@ O **PointMate** é uma aplicação web simples desenvolvida com **HTML**, **CSS*
 ### 📂 Passos:
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/pointmate.git
+   git clone https://github.com/seuusuario/pointmate.git](https://github.com/devlucasmart/pointmate.git
